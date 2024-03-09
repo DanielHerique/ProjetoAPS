@@ -1,2 +1,2 @@
 # ProjetoAPS
-Repositório do projeto TaskHub da aula de Analise e Projeto de Sistemas
+Repositório do projeto TaskHub da aula de Análise e Projeto de Sistemas
